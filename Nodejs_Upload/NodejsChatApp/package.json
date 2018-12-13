@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-chat-app",
+  "version": "0.0.0",
+  "description": "NodejsChatApp",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
